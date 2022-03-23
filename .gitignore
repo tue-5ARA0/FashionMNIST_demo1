@@ -130,3 +130,6 @@ dmypy.json
 
 #Exclude Pycharm project
 .idea/
+
+#Exclude data
+/data
